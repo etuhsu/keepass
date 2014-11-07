@@ -8,13 +8,18 @@
 		<LanguageFile>Chinese_Simplified.lngx</LanguageFile>
 		<LastUpdateCheck>2014-10-24T04:39:19Z</LastUpdateCheck>
 		<LastUsedFile>
-			<Path>..\..\新数据库.kdbx</Path>
+			<Path>新数据库.kdbx</Path>
 			<CredProtMode>Obf</CredProtMode>
 			<CredSaveMode>NoSave</CredSaveMode>
 		</LastUsedFile>
 		<MostRecentlyUsed>
 			<MaxItemCount>12</MaxItemCount>
 			<Items>
+				<ConnectionInfo>
+					<Path>新数据库.kdbx</Path>
+					<CredProtMode>Obf</CredProtMode>
+					<CredSaveMode>NoSave</CredSaveMode>
+				</ConnectionInfo>
 				<ConnectionInfo>
 					<Path>..\..\新数据库.kdbx</Path>
 					<CredProtMode>Obf</CredProtMode>
@@ -28,7 +33,7 @@
 			</Items>
 		</MostRecentlyUsed>
 		<WorkingDirectories>
-			<Item>Database@..\..\..\Download</Item>
+			<Item>Database@..\KeePass-2.28</Item>
 			<Item>KeyFile@..\KeePass-2.28</Item>
 		</WorkingDirectories>
 		<Start>
@@ -46,12 +51,12 @@
 	</Application>
 	<Logging />
 	<MainWindow>
-		<X>833</X>
-		<Y>315</Y>
+		<X>785</X>
+		<Y>294</Y>
 		<Width>670</Width>
 		<Height>487</Height>
 		<SplitterHorizontalFrac>0.8246073</SplitterHorizontalFrac>
-		<SplitterVerticalFrac>0.247734144</SplitterVerticalFrac>
+		<SplitterVerticalFrac>0.246223569</SplitterVerticalFrac>
 		<Layout>Default</Layout>
 		<CloseButtonMinimizesWindow>true</CloseButtonMinimizesWindow>
 		<MinimizeToTray>true</MinimizeToTray>
@@ -163,7 +168,7 @@
 		<UserProfiles />
 	</PasswordGenerator>
 	<Defaults>
-		<OptionsTabIndex>1</OptionsTabIndex>
+		<OptionsTabIndex>4</OptionsTabIndex>
 		<SearchParameters>
 			<ComparisonMode>InvariantCultureIgnoreCase</ComparisonMode>
 		</SearchParameters>
@@ -174,6 +179,10 @@
 			</Association>
 			<Association>
 				<DatabasePath>C:\Documents and Settings\Administrator\My Documents\新数据库.kdbx</DatabasePath>
+				<KeyFilePath>keepass.key</KeyFilePath>
+			</Association>
+			<Association>
+				<DatabasePath>新数据库.kdbx</DatabasePath>
 				<KeyFilePath>keepass.key</KeyFilePath>
 			</Association>
 		</KeySources>
